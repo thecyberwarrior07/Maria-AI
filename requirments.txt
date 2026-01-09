@@ -1,0 +1,6 @@
+wikipedia==1.4.0
+pygame==2.6.1
+edge-tts==7.2.7
+pocketsphinx==5.0.4
+SpeechRecognition==3.14.5
+pywhatkit==5.4
